@@ -1,25 +1,7 @@
-table,
-th,
-td {
-    border: 2px solid #111111;
-    border-collapse: collapse;
-    margin: auto;
-
-}
-
-table th {
-    text-transform: uppercase;
-    font-style: italic;
-    letter-spacing: 2px;
-}
-
-table td {
-    text-align: center;
-    letter-spacing: 1px;
-}
 
 * {
     font-family: cursive;
+    text-align: justify;
 }
 img {
     margin: auto;
@@ -32,9 +14,10 @@ header {
     padding-block-end: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: antiquewhite;
-    text-align: center;
     padding: 20px;
-
+}
+#titulo{
+    text-align: center;
 }
 
 div {
@@ -109,4 +92,13 @@ blockquote {
 
 blockquote p {
     margin: 0;
+}
+
+
+
+/*ver despues*/
+#img1{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
 }
