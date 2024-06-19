@@ -27,7 +27,7 @@ div {
 }
 
 
-footer{
+.pie{
     text-align: center;
     padding: 25px;
 }
@@ -95,10 +95,7 @@ blockquote p {
 }
 
 
-
-/*ver despues*/
-#img1{
-    align-items: center;
-    justify-content: center;
-    text-align: center;
+.pie{
+    margin-left: 500px;
+    padding: 25px;
 }
